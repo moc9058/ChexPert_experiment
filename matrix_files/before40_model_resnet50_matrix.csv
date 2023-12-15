@@ -1,0 +1,5 @@
+,Cardiomegaly,Edema,Consolidation,Atelectasis,Pleural Effusion
+FN,232,260,171,593,428
+FP,665,1128,1361,1226,1030
+TN,4468,3271,4006,3117,3073
+TP,343,1049,170,772,1177
